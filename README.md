@@ -19,10 +19,10 @@ BlueJ-Tac-Toe is a java implementation of Tic-tac-toe with BlueJ. This was a sch
 - Right-click on the _Bluejtactoe_-class-card
 - Select one of the two constructors (_new Bluejtactoe()_ or _new Bluejtactoe(int NEWFIELDSIZE)_)
 - Maybe enter paramenter and then hit _OK_
-- (A console window should pop up)
+- (A console window with the board and instructions should pop up)
 
 #### Make a move
-- Right-click on the red _bluejtac1_-object-card
+- Right-click on the red _bluejtac1_-object-card in the main BlueJ window
 - Select _void playerInput(String COORDS)_
 - Input the coordinates of your desired cell as a string consisting of a char and a number. (order and case doesn't matter). E.g. `playerInput("A3")`
 - Hit _OK_
